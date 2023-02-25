@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork3 is done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW4/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW4/Exercise2.java" afterDir="false" />
+    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork4 is done!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" afterDir="false" />
     </list>
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork3" />
+        <entry key="$PROJECT_DIR$" value="HomeWork4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -145,14 +145,22 @@
       <option name="project" value="LOCAL" />
       <updated>1676875020370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HomeWork4 is done!">
+      <created>1677338981334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677338981334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork1 is done!" />
     <MESSAGE value="HomeWork2 is done!" />
     <MESSAGE value="HomeWork3 is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork3 is done!" />
+    <MESSAGE value="HomeWork4 is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork4 is done!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GBHW$Exercise2.ic" NAME="Exercise2 Coverage Results" MODIFIED="1677239298303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
