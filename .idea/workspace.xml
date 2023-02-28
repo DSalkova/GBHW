@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork4 is done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Worker.java" afterDir="false" />
+    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork5 is done!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" afterDir="false" />
     </list>
@@ -25,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork4" />
+        <entry key="$PROJECT_DIR$" value="HomeWork5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677338981334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork5 is done!">
+      <created>1677347128953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677347128953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,7 +169,8 @@
     <MESSAGE value="HomeWork2 is done!" />
     <MESSAGE value="HomeWork3 is done!" />
     <MESSAGE value="HomeWork4 is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork4 is done!" />
+    <MESSAGE value="HomeWork5 is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork5 is done!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GBHW$Exercise2.ic" NAME="Exercise2 Coverage Results" MODIFIED="1677239298303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
