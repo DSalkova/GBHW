@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork5 is done!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW7/Plate.java" afterDir="false" />
+    <list default="true" id="e75bccb7-7812-42c5-8766-c474a39885d5" name="Changes" comment="HomeWork7 is done!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/AppForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/components/DigitJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/components/OperatorJButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/listeners/BtnListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/listeners/ClearFieldBtnListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW8/listeners/ResultBtnListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW1/HomeWorkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW7/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork6" />
+        <entry key="$PROJECT_DIR$" value="HomeWork7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,6 +73,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW8.components" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW2.HomeWork2" />
@@ -167,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677594912548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HomeWork7 is done!">
+      <created>1678032249106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678032249106</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,7 +193,8 @@
     <MESSAGE value="HomeWork3 is done!" />
     <MESSAGE value="HomeWork4 is done!" />
     <MESSAGE value="HomeWork5 is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork5 is done!" />
+    <MESSAGE value="HomeWork7 is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork7 is done!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GBHW$Exercise2.ic" NAME="Exercise2 Coverage Results" MODIFIED="1677239298303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
